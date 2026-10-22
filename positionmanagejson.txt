@@ -22,7 +22,7 @@
 
       "tag": "com-company-projectentrywidget",
 
-      "url": "https://sacplanning2025.github.io/hr_widget/projectEntryWidget.js",
+      "url": "https://madhavpandey1478-sys.github.io/position-manage/positionmanagejs.txt",
 
       "integrity": "",
 
